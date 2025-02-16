@@ -10,8 +10,8 @@ print(name[0:4])
 name = "karan Dixit "
 print(name)
 a= 12
-b 13 
-peint ("this is the sum of a and b " a+b) 
+b =13 
+print("this is the sum of a and b ", a+b) 
 
 
 
