@@ -7,6 +7,12 @@ print("hello  "  +name)
 name="doctor"
 print(name[0:4])
 
+name = "karan Dixit "
+print(name)
+a= 12
+b 13 
+peint ("this is the sum of a and b " a+b) 
+
 
 
 #calculate length of any string .
